@@ -1,11 +1,5 @@
 Primer archivo
 
-
-Local - cambio 1
-
 Remota - Cambio 1
 
-Local - cambio 2
-
 Remota - Cambio 2
-
